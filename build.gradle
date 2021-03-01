@@ -8,7 +8,7 @@ buildscript {
 		}
 
 		maven {
-			url = "http://files.minecraftforge.net/maven"
+			url = "https://repo.spongepowered.org/maven/"
 		}
 	}
 
